@@ -1,0 +1,15 @@
+# [h4 ETAOIN](https://terokarvinen.com/2024/information-security-2024-spring/#h4-etaoin)
+
+    x) Read and summarize (This subtask x does not require tests with a computer. Some bullets per article is enough for your summary, feel free to write more if you like)
+        € Schneier 2015: Applied Cryptography: Chapter 1: Foundations
+        Disobey 2023:
+            Watch and summarize a presetation of Disobey 2023 conference
+            Presentation videos are on Disobey Youtube Channel
+            Skill level and background knowledge required varies a lot, choose a video you can understand.
+    a) Encrypt and decrypt a message. Explain the purpose of each step. Explain why you choose the tool you're using. (You can use any tool you want. You must do and report the encryption at the same time, it's not enough to try to remember what we did in the class. )
+    m) Voluntary bonus: send and receive encrypted message over email.
+    n) Voluntary bonus: Find out frequency distribution of letters for a language that you know (other than English). What are the six most common letters? (This subtask y does not require tests with a computer if the question can be answered without them)
+    o) Voluntary bonus: ETAOIN. Crack this ciphertext:
+        HDMH'B TH. KWU'YI AWR WSSTOTMJJK M OWQINYIMLIY! MB KWU BII, BTGPJI BUNBHTHUHTWA OTPDIYB OMA NI NYWLIA RTHD SYIEUIAOK MAMJKBTB. BII KWU MH DHHP://HIYWLMYCTAIA.OWG
+    p) Voluntary bonus, easy: try rot13, the military grade top-secret encryption of the top-2 empire of year zero. Could double rot13 provide extra security?
+    q) Voluntary difficult bonus, requries coding skills: Cryptopals (recommended, if you have what it takes).
